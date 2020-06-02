@@ -1,7 +1,7 @@
 "emberrp"
 {
 	"title"		"EmberRP"
-	"base"		"base"
+	"base"		"sandbox"
 	"maps"		"^rp_"
 	"menusystem"  "1"
 

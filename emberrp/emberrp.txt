@@ -1,0 +1,9 @@
+"emberrp"
+{
+	"title"		"EmberRP"
+	"base"		"base"
+	"maps"		"^rp_"
+	"menusystem"  "1"
+
+	"Settings"
+}

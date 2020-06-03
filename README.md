@@ -22,12 +22,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -35,13 +33,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/crannman/EmberRP">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="emberrp/erp.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">EmberRP</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Free Open Source RP Gamemode to be a alternative to DarkRP with constant content updates to the gamemode
     <br />
     <a href="https://github.com/crannman/EmberRP"><strong>Explore the docs »</strong></a>
     <br />
@@ -79,8 +77,9 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
+EmberRP is a small project created by Crannman that looks to be another alternative to the DarkRP gamemode that will be updated monthly with new content and addons. Developers are free to edit or even use parts of this gamemode for there own servers. we would ask that you refraine from using our scripts and customising it to work with darkrp. but we will not stop you from doing that just will dislike you for doing so. This project is very open and if you make any changes or scripts for this gamemode and want to have them added in the github contact me at Crannman #3819.
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+`Crannman`, `EmberRP`
 
 
 ### Built With
@@ -99,7 +98,7 @@ To get a copy of this gamemode working just install the gamemode into your serve
 You will need to have a garry's mod server ready to be able to run this gamemode.
 
 ### Installation
- 
+
 1. Download the gamemode from this github
 
 

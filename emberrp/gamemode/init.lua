@@ -5,6 +5,7 @@ AddCSLuaFile("shared.lua")
 include("shared.lua")
 
 -- Include Other Scripts
+AddCSLuaFile("vgui/scoreboard.lua")
 
 function GM:PlayerSpawn(ply)
   ply:SetGravity(.8)

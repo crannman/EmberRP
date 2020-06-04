@@ -7,7 +7,6 @@ surface.CreateFont( "Roboto", {
 	weight = 500,
 })
 
-
 local function ToggleScoreboard(toggle)
   if toggle then
       local scrw, scrh = ScrW(), ScrH()
@@ -46,7 +45,6 @@ local function ToggleScoreboard(toggle)
         end
 
 end
-
 
 hook.Add("ScoreboardShow", "EmberRPOpenScoreboard", funcction()
     ToggleScoreboard(true)
